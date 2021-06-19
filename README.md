@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NourAyed
-- 👀 I’m interested in Robotics and Web Development
-- 🌱 I’m currently learning the basics of front-end web development
-- 💞️ I’m looking to collaborate on few projects after mastering the building blocks of web development
+- 👀 I’m interested in Robotics and programming
+- 🌱 I’m currently learning the basics of the Robot Operating System programming (ROS)
+- 💞️ I’m looking to collaborate on few projects after mastering the building blocks of ROS
 - 📫 How to reach me (via email): nour.benajmiayed@gmail.com
 
 <!---
